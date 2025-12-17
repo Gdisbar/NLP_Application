@@ -4,16 +4,6 @@
 !jq 'del(.metadata.widgets)' Source.ipynb > Target.ipynb ## use this one in colab to avoid Github Metadata error
 ```
 
-
-
-[Google Translate for NLP Augmentation](https://www.kaggle.com/code/tuckerarrants/using-google-translate-for-nlp-augmentation)
-
-## JPX Tokyo Stock Exchange Prediction
-
-Task - Predict Ranks by date and Securities Code (stocks). Rank indicates the stocks from highest to lowest expected returns and is evaluated on the difference in returns between the top and bottom 200 stocks. 
-
-[Stock Exchange Prediction](https://www.kaggle.com/code/chumajin/easy-to-understand-the-competition)
-
 # Finetune for custom application 
 
 [Training Small Language Model](https://github.com/AIAnytime/Training-Small-Language-Model/blob/main/Training_a_Small_Language_Model.ipynb)
@@ -23,6 +13,15 @@ Task - Predict Ranks by date and Securities Code (stocks). Rank indicates the st
 [Prompt Prediction - Miztral,Gemma,Llama](https://www.kaggle.com/code/aatiffraz/prompt-prediction-w-mixtral-mistral7b-gemma-llama)
 
 [Code Interpreter Baseline](https://www.kaggle.com/code/huikang/code-interpreter-baseline)
+
+[Google Translate for NLP Augmentation](https://www.kaggle.com/code/tuckerarrants/using-google-translate-for-nlp-augmentation)
+
+## JPX Tokyo Stock Exchange Prediction
+
+Task - Predict Ranks by date and Securities Code (stocks). Rank indicates the stocks from highest to lowest expected returns and is evaluated on the difference in returns between the top and bottom 200 stocks. 
+
+[Stock Exchange Prediction](https://www.kaggle.com/code/chumajin/easy-to-understand-the-competition)
+
 
 ## LMSYS - Chatbot Arena Human Preference Predictions
 
